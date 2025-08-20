@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is Artificial Intelligence?",
+        "answer": "Artificial Intelligence is the simulation of human intelligence in machines that are programmed to think and learn.",
+        "link": "https://youtu.be/2ePf9rue1Ao",
+        "docs": "https://www.ibm.com/cloud/learn/what-is-artificial-intelligence"
+    },
+    {
+        "question": "How do you train an AI model?",
+        "answer": "AI models are trained by feeding them large datasets and adjusting their parameters to minimize errors.",
+        "link": "https://youtu.be/aircAruvnKk",
+        "docs": "https://developers.google.com/machine-learning/crash-course"
+    },
+    {
+        "question": "What is Machine Learning?",
+        "answer": "Machine Learning is a subset of AI that allows systems to learn and improve from data without being explicitly programmed.",
+        "link": "https://youtu.be/GwIo3gDZCVQ",
+        "docs": "https://www.expert.ai/blog/machine-learning-definition/"
+    },
+    {
+        "question": "What is Deep Learning?",
+        "answer": "Deep Learning is a type of machine learning that uses neural networks with many layers to analyze data.",
+        "link": "https://youtu.be/aircAruvnKk",
+        "docs": "https://www.ibm.com/cloud/learn/deep-learning"
+    },
+    {
+        "question": "What is Blockchain?",
+        "answer": "Blockchain is a decentralized, distributed ledger technology that records transactions securely.",
+        "link": "https://youtu.be/SSo_EIwHSd4",
+        "docs": "https://www.investopedia.com/terms/b/blockchain.asp"
+    },
+    {
+        "question": "What is Cloud Computing?",
+        "answer": "Cloud computing is the delivery of computing services over the internet instead of local servers.",
+        "link": "https://youtu.be/M988_fsOSWo",
+        "docs": "https://azure.microsoft.com/en-in/resources/cloud-computing-dictionary/what-is-cloud-computing"
+    },
+    {
+        "question": "What is Big Data?",
+        "answer": "Big Data refers to extremely large datasets that can be analyzed to reveal patterns, trends, and insights.",
+        "link": "https://youtu.be/u5iFESMAU58",
+        "docs": "https://www.oracle.com/big-data/what-is-big-data/"
+    },
+    {
+        "question": "What is the Internet of Things (IoT)?",
+        "answer": "IoT is a network of physical objects embedded with sensors and software to connect and exchange data.",
+        "link": "https://youtu.be/QSIPNhOiMoE",
+        "docs": "https://www.cisco.com/c/en/us/solutions/internet-of-things/overview.html"
+    },
+    {
+        "question": "What is Natural Language Processing?",
+        "answer": "NLP is a field of AI that enables computers to understand, interpret, and generate human language.",
+        "link": "https://youtu.be/fOvTtapxa9c",
+        "docs": "https://www.ibm.com/cloud/learn/natural-language-processing"
+    },
+    {
+        "question": "What is Computer Vision?",
+        "answer": "Computer Vision is a field of AI that trains computers to interpret and understand visual information.",
+        "link": "https://youtu.be/M4K6HYLHREQ",
+        "docs": "https://www.mathworks.com/solutions/computer-vision.html"
+    },
+    {
+        "question": "What is Robotics?",
+        "answer": "Robotics is an interdisciplinary field that integrates mechanical engineering, electronics, and AI to build machines that can perform tasks.",
+        "link": "https://youtu.be/C7OQHIpDlvA",
+        "docs": "https://www.sciencedirect.com/topics/engineering/robotics"
+    },
+    {
+        "question": "What is Quantum Computing?",
+        "answer": "Quantum computing is an advanced computing paradigm that uses quantum mechanics to perform computations.",
+        "link": "https://youtu.be/F_Riqjdh2oM",
+        "docs": "https://www.ibm.com/quantum-computing/what-is-quantum-computing/"
+    },
+    {
+        "question": "What is Data Science?",
+        "answer": "Data Science is the process of extracting knowledge and insights from structured and unstructured data.",
+        "link": "https://youtu.be/X3paOmcrTjQ",
+        "docs": "https://datascience.berkeley.edu/what-is-data-science/"
+    },
+    {
+        "question": "What is Cybersecurity?",
+        "answer": "Cybersecurity is the practice of protecting systems, networks, and data from digital attacks.",
+        "link": "https://youtu.be/inWWhr5tnEA",
+        "docs": "https://www.cisco.com/c/en/us/products/security/what-is-cybersecurity.html"
+    },
+    {
+        "question": "What is Edge Computing?",
+        "answer": "Edge computing brings computation and data storage closer to the sources of data to reduce latency.",
+        "link": "https://youtu.be/VR0R21w1e58",
+        "docs": "https://www.ibm.com/cloud/what-is-edge-computing"
+    },
+    {
+        "question": "What is a Neural Network?",
+        "answer": "A Neural Network is a series of algorithms that mimic the human brain to recognize patterns in data.",
+        "link": "https://youtu.be/aircAruvnKk",
+        "docs": "https://www.ibm.com/cloud/learn/neural-networks"
+    },
+    {
+        "question": "What is Reinforcement Learning?",
+        "answer": "Reinforcement Learning is a machine learning technique where agents learn by receiving rewards or penalties for their actions.",
+        "link": "https://youtu.be/2pWv7GOvuf0",
+        "docs": "https://www.geeksforgeeks.org/what-is-reinforcement-learning/"
+    },
+    {
+        "question": "What is 5G technology?",
+        "answer": "5G is the fifth-generation mobile network that enables faster speeds and more reliable connections.",
+        "link": "https://youtu.be/US5f8x5sJrQ",
+        "docs": "https://www.qualcomm.com/5g/what-is-5g"
+    },
+    {
+        "question": "What is Augmented Reality (AR)?",
+        "answer": "AR is an interactive experience where digital elements are overlaid on the real world through devices like smartphones or glasses.",
+        "link": "https://youtu.be/l9QdQ-u3s5I",
+        "docs": "https://www.intel.com/content/www/us/en/technology-innovation/augmented-reality.html"
+    },
+    {
+        "question": "What is Virtual Reality (VR)?",
+        "answer": "VR is a simulated experience created using computer technology, often through a headset, that immerses users in a virtual world.",
+        "link": "https://youtu.be/1Jz8QjXoKdc",
+        "docs": "https://www.vive.com/us/virtual-reality/what-is-vr/"
+    }
+]
