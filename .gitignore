@@ -1,0 +1,35 @@
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.log
+
+# Virtual environment
+aienv/
+venv/
+.env
+*.env
+
+# === Node / React / Next.js ===
+agent-ui/node_modules/
+agent-ui/.next/
+agent-ui/.turbo/
+agent-ui/out/
+agent-ui/build/
+agent-ui/.env*
+agent-ui/.vercel
+
+# === Temp / Cache ===
+tmp/
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# === VSCode / IDE ===
+.vscode/
+.idea/
+*.iml

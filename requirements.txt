@@ -1,0 +1,14 @@
+agno>==0.2.0
+openai
+python-dotenv
+duckduckgo-search
+groq
+yfinance
+sqlalchemy
+fastapi[standard]
+psycopg[binary]      
+pgvector             
+sentence-transformers
+torch
+streamlit
+google-genai
