@@ -7,6 +7,7 @@ load_dotenv()
 
 def main():
     print("📥 Loading FAQ data into the knowledge base...")
+    # added await if load is an async function
     knowledge_base.load()  # 👈 no await
     print("✅ FAQ data successfully loaded into Postgres!")
 
